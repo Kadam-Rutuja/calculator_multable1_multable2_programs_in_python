@@ -1,6 +1,0 @@
-# python-basic3
-
-
-
-
-
